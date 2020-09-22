@@ -1,4 +1,4 @@
-Some contents in the new file
+Some contents in the new file 
 
 One more line here
 
